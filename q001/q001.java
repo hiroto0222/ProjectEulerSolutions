@@ -25,11 +25,11 @@ public class q001 {
   /*
    * instead of brute force, we can use the gauss summation formula
    */
-  public double solve2() {
+  public int solve2() {
     return this.gaussSum(999, 3) + this.gaussSum(999, 5) - this.gaussSum(999, 15);
   }
 
-  private double gaussSum(int n, int k) {
-    return 0.5 * k * Math.floor(n / k) * (Math.floor(n / k) + 1);
+  private int gaussSum(int n, int k) {
+    return (int) (0.5 * k * Math.floor(n / k) * (Math.floor(n / k) + 1));
   }
 }
