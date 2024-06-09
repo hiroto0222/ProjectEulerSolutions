@@ -26,7 +26,7 @@ public class q001 {
    * instead of brute force, we can use the gauss summation formula
    */
   public double solve2() {
-    return this.gaussSum(1000, 3) + this.gaussSum(1000, 5) - this.gaussSum(1000, 15);
+    return this.gaussSum(999, 3) + this.gaussSum(999, 5) - this.gaussSum(999, 15);
   }
 
   private double gaussSum(int n, int k) {
