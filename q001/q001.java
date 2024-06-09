@@ -3,6 +3,7 @@ package q001;
 public class q001 {
   public static void main(String[] args) {
     System.out.println(new q001().solve1());
+    System.out.println(new q001().solve2());
   }
 
   /*
@@ -19,5 +20,16 @@ public class q001 {
     }
 
     return sum;
+  }
+
+  /*
+   * instead of brute force, we can use the gauss summation formula
+   */
+  public double solve2() {
+    return this.gaussSum(1000, 3) + this.gaussSum(1000, 5) - this.gaussSum(1000, 15);
+  }
+
+  private double gaussSum(int n, int k) {
+    return 0.5 * k * Math.floor(n / k) * (Math.floor(n / k) + 1);
   }
 }
