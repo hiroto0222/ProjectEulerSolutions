@@ -6,3 +6,4 @@
 4. [Largest Palindrome Product](/q004/q004.md)
 5. [Smallest Multiple](/q005/q005.md)
 6. Sum Square Difference
+7. 10001st Prime
