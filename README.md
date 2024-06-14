@@ -8,4 +8,4 @@
 6. [Sum Square Difference](/problems/q006/q006.md)
 7. [10001st Prime](/problems/q007/q007.md)
 8. [Largest Product in a Series](/problems/q008/q008.md)
-9. Special Pythagorean Triplet
+9. [Special Pythagorean Triplet](/problems/q009/q009.md)
