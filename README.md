@@ -9,3 +9,4 @@
 7. [10001st Prime](/problems/q007/q007.md)
 8. [Largest Product in a Series](/problems/q008/q008.md)
 9. [Special Pythagorean Triplet](/problems/q009/q009.md)
+10. [Summation of Primes](/problems/q010/q010.md)
