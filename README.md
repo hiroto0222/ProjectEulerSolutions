@@ -10,3 +10,4 @@
 8. [Largest Product in a Series](/problems/q008/q008.md)
 9. [Special Pythagorean Triplet](/problems/q009/q009.md)
 10. [Summation of Primes](/problems/q010/q010.md)
+11. [Largest Product in a Grid](/problems/q011/q011.md)
