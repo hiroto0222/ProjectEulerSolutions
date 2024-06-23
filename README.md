@@ -11,3 +11,4 @@
 9. [Special Pythagorean Triplet](/problems/q009/q009.md)
 10. [Summation of Primes](/problems/q010/q010.md)
 11. [Largest Product in a Grid](/problems/q011/q011.md)
+12. [Highly Divisible Triangular Number](/problems/q012/q012.md)
