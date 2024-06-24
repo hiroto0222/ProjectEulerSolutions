@@ -12,3 +12,4 @@
 10. [Summation of Primes](/problems/q010/q010.md)
 11. [Largest Product in a Grid](/problems/q011/q011.md)
 12. [Highly Divisible Triangular Number](/problems/q012/q012.md)
+13. [Large Sum](/problems/q013/q013.md)
