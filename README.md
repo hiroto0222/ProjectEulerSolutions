@@ -14,3 +14,4 @@
 12. [Highly Divisible Triangular Number](/problems/q012/q012.md)
 13. [Large Sum](/problems/q013/q013.md)
 14. [Longest Collatz Sequence](/problems/q014/q014.md)
+15. [Lattice Paths](/problems/q015/q015.md)
